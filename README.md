@@ -5,7 +5,7 @@
 </p> 
 
 - 🏢 I'm a Backend Devloper (ASP.Net)
-- 👨‍💻 I'm competitve programmer I have solved over 1500 problems from different levels on alot of website (code forces, hacker rank, leetcode).
+- 👨‍💻 I'm competitve programmer I have solved over 1500 problems from different levels on many websites (code forces, hacker rank, leetcode).
 
 
 ### Connect with Me :
