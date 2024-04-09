@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Omar
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Backend Devloper (ASP.Net)
 - 👨‍💻 I'm a competitve programmer, I have solved over 1500 problems in different levels on many websites (codeforces, hackerrank, leetcode).
 
 
-### Connect with Me :
+### Contact with Me :
 
 <a href="https://www.linkedin.com/in/omar-khaled-7100aa23a/" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Khaled-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/omarkhaled710" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Khaled-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
