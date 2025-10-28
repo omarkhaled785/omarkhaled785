@@ -28,29 +28,33 @@
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </a>
 
-
 ---
 
 ### 🛠 Tech Stack
 
 #### 💻 Languages
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=239120)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
 
 #### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
 
 #### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)
 
 #### 🧰 Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ---
 
