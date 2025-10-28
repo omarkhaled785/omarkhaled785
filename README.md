@@ -19,9 +19,11 @@
 <a href="https://www.linkedin.com/in/omar-khaled-7100aa23a/" target="_blank">
   <img src="https://img.shields.io/badge/-Omar%20Khaled-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
+
 <a href="https://t.me/omarkhaled710" target="_blank">
   <img src="https://img.shields.io/badge/-Omar%20Khaled-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/>
 </a>
+
 <a href="https://codeforces.com/profile/omarkhaled1812" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-omarkhaled1812-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </a>
@@ -51,45 +53,4 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧾 Online Exam System | Secure exams, cheating detection, automation | Node.js, Express, SQL |
-| 🤖 Smart IoT Automation | IoT system controlled with AI | C++, ESP32 |
-| 📚 Competitive Programming Repo | Solutions for Codeforces, ICPC, ECPC | C++ |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarkhaled785&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarkhaled785&theme=tokyonight" height="160" />
-</p>
-
----
-
-### 🔥 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkhaled785&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarkhaled785&theme=tokyo-night" />
-</p>
-
----
-
-### ✅ Goal for 2025
-- Improve Codeforces rating  
-- Build more backend + full-stack projects  
-- Master algorithms & data structures  
-- Contribute to open-source  
-
----
-
-⭐ **Feel free to check out my repos and connect with me!**
+⭐ **Feel free to check out my repositories and connect with me!**
