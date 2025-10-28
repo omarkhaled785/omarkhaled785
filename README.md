@@ -25,8 +25,9 @@
 </a>
 
 <a href="https://codeforces.com/profile/omarkhaled1812" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-omarkhaled1812-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </a>
+
 
 ---
 
