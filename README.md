@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Omar Khaled 👋</h1>
 
 - 🎓 Computer Engineering Student  
-- 🏆 Competitive Programmer (Codeforces, ACPC Finalist)  
+- 🏆 Competitive Programmer (ACPC Finalist)  
 - 💻 Interested in Backend Development & Algorithms  
 - 🚀 Always learning and building new projects  
 
